@@ -12,6 +12,9 @@
         <module name="section1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="section1" target="25" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
