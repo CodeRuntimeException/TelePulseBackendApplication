@@ -5,8 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Section1Application {
-	//Vinayak Daharwal developer
-
+     //Devkumar Mandal
 	public static void main(String[] args) {
 		SpringApplication.run(Section1Application.class, args);
 	}
