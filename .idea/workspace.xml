@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9f9f5fe-3917-4f75-9231-6715cf46c3ff" name="Changes" comment="Added By Signature Name" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="pranay-dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "CodeRuntimeException"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CodeRuntimeException/TelePulseBackendApplication.git",
+    "accountId": "6761372d-5d32-4124-81e0-c1c404da27a4"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "CodeRuntimeException",
+    "repository": "TelePulseBackendApplication"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5723088019862628" />
+      <entry key="MS500" value="2.371762309733951" />
+      <entry key="S2" value="3.3676100990212547" />
+      <entry key="S5" value="3.7202719102633894" />
+      <entry key="S10" value="3.855226648458286" />
+      <entry key="S30" value="3.9536788460395353" />
+      <entry key="S60" value="4.136573725727171" />
+      <entry key="M2" value="5.32672276541187" />
+      <entry key="M5" value="9.355097756131979" />
+      <entry key="M10" value="13.660592251574563" />
+      <entry key="M15" value="16.359679184592686" />
+      <entry key="M30" value="20.45538051320879" />
+      <entry key="H1" value="23.327801498737685" />
+      <entry key="H2" value="25.04882517708246" />
+      <entry key="H4" value="25.993491749498705" />
+      <entry key="D1" value="26.827757584442825" />
+      <entry key="W1" value="26.975281295016114" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.5079735881387355" />
+      <entry key="MS500" value="2.2896105832053752" />
+      <entry key="S2" value="3.3011981995803916" />
+      <entry key="S5" value="3.686108805899999" />
+      <entry key="S10" value="3.8366361653679504" />
+      <entry key="S30" value="3.947120417113342" />
+      <entry key="S60" value="4.133234001495259" />
+      <entry key="M2" value="5.324990161216678" />
+      <entry key="M5" value="9.35432300875144" />
+      <entry key="M10" value="13.660140245034347" />
+      <entry key="M15" value="16.359343478273605" />
+      <entry key="M30" value="20.455183163879905" />
+      <entry key="H1" value="23.327691662826602" />
+      <entry key="H2" value="25.04876679986948" />
+      <entry key="H4" value="25.993461596258157" />
+      <entry key="D1" value="26.827752415577653" />
+      <entry key="W1" value="26.97528055296855" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3HUg8BLiELzgG343Zv4qo4MIUdp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "607",
+    "RequestMappingsPanelWidth1": "606",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.Section1Application.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "mahak-dev",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Section1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="section1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.contetial.section1.Section1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9f9f5fe-3917-4f75-9231-6715cf46c3ff" name="Changes" comment="" />
+      <created>1785927900468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785927900468</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pranay-Dev" />
+    <MESSAGE value="Added My Name As Developer" />
+    <MESSAGE value="Added By Signature Name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added By Signature Name" />
+  </component>
+</project>
