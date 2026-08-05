@@ -16,4 +16,11 @@ public class HelloWorldController
     {
         return ResponseEntity.ok("Hello People");
     }
+
+    // http://localhost:8080/api/hello/v2
+    @GetMapping("/v2")
+    public ResponseEntity<String> helloV2()
+    {
+        return ResponseEntity.ok("Hello People Of S2P");
+    }
 }
